@@ -168,7 +168,7 @@ python train_model.py
 streamlit run app.py
 
 
----
+
 
 🧱 Project Folder Structure 
 LoanApproval/
@@ -185,7 +185,7 @@ LoanApproval/
 └── models/
     └── loan_approval_model.pkl
 
----
+
 
 🌐 Deployment Targets
 
@@ -198,7 +198,7 @@ HuggingFace Spaces
 Render
 
 PythonAnywhere
----
+
 
  Author
 
