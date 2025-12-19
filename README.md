@@ -161,10 +161,11 @@ Follow these steps to set up and run the project.
 pip install -r requirements.txt
 
 
-### 2️⃣ Train the Machine Learning Model
+2️⃣ Train the Machine Learning Model
+```
 python train_model.py
 
-### 3️⃣ Launch the Streamlit Application
+3️⃣ Launch the Streamlit Application
 streamlit run app.py
 
 
@@ -217,9 +218,6 @@ This project demonstrates:
 ✔ Serialization
 ✔ Web Application Deployment
 
-
-
----
 
 
 
