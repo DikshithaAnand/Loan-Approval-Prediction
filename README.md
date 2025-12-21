@@ -159,15 +159,17 @@ Follow these steps to set up and run the project.
 ### 1️⃣ Install Dependencies  
 ```bash
 pip install -r requirements.txt
+```
 
 2️⃣ Train the Machine Learning Model
-
+```bash
 python train_model.py
+```
 
 3️⃣ Launch the Streamlit Application
+```bash
 streamlit run app.py
-
-
+```
 
 
 🧱 Project Folder Structure 
