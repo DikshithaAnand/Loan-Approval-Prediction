@@ -211,6 +211,8 @@ AI/ML Developer | Data Science Enthusiast
 
 GitHub: https://github.com/DikshithaAnand
 
+---
+
 Conclusion
 
 This project demonstrates:
@@ -222,6 +224,4 @@ This project demonstrates:
 ✔ Serialization
 ✔ Web Application Deployment
 
-
-
-
+---
