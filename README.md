@@ -191,7 +191,7 @@ LoanApproval/
 ```
 ---
 
-##🌐 Deployment Targets
+🌐 Deployment Targets
 
 - This project is lightweight and works smoothly on cloud platforms:
 
