@@ -206,7 +206,7 @@ LoanApproval/
 ---
 ## Author
 
-Dikshitha Anand
+## Dikshitha Anand
 AI/ML Developer | Data Science Enthusiast
 
 GitHub: https://github.com/DikshithaAnand
