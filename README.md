@@ -26,7 +26,7 @@ This project uses Machine Learning to automate loan decisions in a **fast, unbia
 ## 🎯 ML Problem Statement
 
 - **Task:** Binary Classification  
-- **Objective:** Predict `Loan_Status (Y = Approved, N = Rejected)`
+- **Objective:** Predict `Loan_Status (Y = Approved, N = Rejected)'
 - **Approach:** Supervised Learning  
 - **Primary Metric:** F1-Score (risk-sensitive)  
 - **Secondary Metric:** Accuracy  
