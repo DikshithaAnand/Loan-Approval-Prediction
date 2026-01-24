@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction using Machine Learning & Streamlit
+## 🏦 Loan Approval Prediction using Machine Learning & Streamlit
 **Status:** Production-ready • Fully Tested • Explainable ML • Deployable
 
 This repository contains an end-to-end ML solution that predicts whether a home loan application should be **Approved or Rejected** using applicant demographic and financial details. The project follows a complete lifecycle: data preparation, modeling, evaluation, explainability, saving the best pipeline, and deployment through Streamlit.
